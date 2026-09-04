@@ -18,7 +18,7 @@
 ## 🚀 **QUICK START** *(90 seconds)*
 
 ```bash
-git clone https://github.com/1ttp/ig-monitor-bot-v2.git
+git clone https://github.com/M0bsyy/Unban-Monitery-Bot-.git
 cd ig-monitor-bot-v2
 npm install
 cp .env.example .env
@@ -63,7 +63,7 @@ npm start
 # 2. Termux (Android)
 **pkg install nodejs git**
 **termux-setup-storage**
-**git clone https://github.com/1ttp/ig-monitor-bot-v2**
+**git clone https://github.com/M0bsyy/Unban-Monitery-Bot-.git**
 **cd ig-monitor-bot-v2**
 **npm install**
 **termux-wake-lock**
