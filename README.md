@@ -61,6 +61,7 @@ npm start
 **4.** OAuth2 → **bot scope** → **Copy invite** → **Add to server**
 
 # 2. Termux (Android)
+``` bash
 **pkg install nodejs git**
 **termux-setup-storage**
 **git clone https://github.com/M0bsyy/Unban-Monitery-Bot-.git**
@@ -68,6 +69,7 @@ npm start
 **npm install**
 **termux-wake-lock**
 **npm start**
+```
 
 ## 🚨 **Troubleshooting**
 
