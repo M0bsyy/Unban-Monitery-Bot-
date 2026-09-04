@@ -62,13 +62,13 @@ npm start
 
 # 2. Termux (Android)
 ``` bash
-**pkg install nodejs git**
-**termux-setup-storage**
-**git clone https://github.com/M0bsyy/Unban-Monitery-Bot-.git**
-**cd ig-monitor-bot-v2**
-**npm install**
-**termux-wake-lock**
-**npm start**
+pkg install nodejs git
+termux-setup-storage
+git clone https://github.com/M0bsyy/Unban-Monitery-Bot-.git
+cd Unban-Monitery-Bot-
+npm install
+termux-wake-lock
+npm start
 ```
 
 ## 🚨 **Troubleshooting**
